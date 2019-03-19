@@ -1,0 +1,13 @@
+name: due-sicilie
+title: due-sicilie
+username:
+account: francesco-cusano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 735167
+bundleId: 1893570
+url: https://francesco-cusano.shinyapps.io/due-sicilie/
+when: 1550924122.64057
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ds.R
